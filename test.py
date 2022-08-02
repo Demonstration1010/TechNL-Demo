@@ -21,3 +21,5 @@ def hellow_world():
 variable = "Let's cause a conflit"
 
 vanother_variable = "I'm going to make a merge conflict"
+
+third_variable = "I'm going to make another merge conflict"
