@@ -14,3 +14,5 @@ def div(a, b):
 
 def mul(a, b):
     return a*b
+
+variable = "Let's cause a conflit"
