@@ -5,3 +5,6 @@ This is a test file to demonstrate git
 
 def add(a, b):
     return a+b
+
+def sub(a, b):
+    return a-b
