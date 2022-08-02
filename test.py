@@ -11,3 +11,5 @@ def sub(a, b):
 
 def div(a, b):
     return a/b
+
+variable = "Let's cause a conflit"
