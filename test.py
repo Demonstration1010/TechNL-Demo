@@ -16,3 +16,5 @@ def mul(a, b):
     return a*b
 
 variable = "Let's cause a conflit"
+
+vanother_variable = "I'm going to make a merge conflict"
