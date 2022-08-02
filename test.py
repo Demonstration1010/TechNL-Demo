@@ -15,4 +15,9 @@ def div(a, b):
 def mul(a, b):
     return a*b
 
+def hellow_world():
+    return "Hello World!"
+
 variable = "Let's cause a conflit"
+
+
