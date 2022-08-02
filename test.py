@@ -2,6 +2,9 @@
 This is a test file to demonstrate git
 """
 
+vanother_variable = "I'm going to make a merge conflict"
+
+third_variable = "I'm going to make another merge conflict"
 
 def add(a, b):
     return a+b
@@ -22,7 +25,5 @@ def function():
     return "Another function!"
 
 variable = "Let's cause a conflit"
-
-vanother_variable = "I'm going to make a merge conflict"
 
 list = []
